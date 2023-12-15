@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Fat ass Latinas
 - 🌱 I’m currently learning ... Webhooks and hairpulling
 - 💞️ I’m looking to collaborate on ... Ai integrated builds > making $$ > Ambition baby 
-- 📫 How to reach me ... WWI pigeon or @ chet@pcmfinancial.ca
+- 📫 How to reach me ... WWI pigeon 
 
 <!---
 TrackerXXX23/TrackerXXX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
