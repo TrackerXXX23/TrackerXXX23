@@ -1,6 +1,8 @@
 # Chet Paslawski
 
-Product engineer in Saskatchewan, Canada. I've been building software products since 2022, across mobile, web and desktop.
+Product engineer building cross-platform apps, payment workflows and real-time AI tools. Based in Saskatchewan, Canada; building software products since 2022.
+
+I take products from the customer workflow through implementation and testing, including the recovery paths when a payment, recording or export is interrupted.
 
 ## What I build
 
@@ -14,7 +16,7 @@ A local-services marketplace covering job posting, quotes, hiring, Stripe paymen
 
 https://github.com/user-attachments/assets/66dbddaf-0c7f-4914-8259-5dca5cbddb9b
 
-**Watch the narrated demo · 54 seconds** · [Product and engineering details](gethandy.md)
+**Watch the narrated demo · 54 seconds** · [How I handle payout retries](gethandy.md#engineering-case-study-a-payout-succeeds-then-the-worker-crashes)
 
 *Recorded in the app with fictional demo data and Stripe test mode.*
 
@@ -54,8 +56,8 @@ AI meeting notes and client records. I integrated live transcription, structured
 
 ## How I work
 
-I use Claude Code and Codex through implementation, review and testing. I build reusable skills, commands and handoff workflows, configure MCP connections, and turn recurring review findings into checks.
+I define the workflow, make the engineering decisions and verify the result. I use Claude Code and Codex for implementation and review, and turn failure cases into regression checks.
 
-I set the scope, make the engineering decisions and verify the result.
+For product engineering opportunities, [email me](mailto:chet@gethandy.app).
 
 [LinkedIn](https://www.linkedin.com/in/chetpaslawski) · [Email](mailto:chet@gethandy.app)
