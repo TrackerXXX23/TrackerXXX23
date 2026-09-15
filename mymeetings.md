@@ -16,7 +16,7 @@ MyMeetings combines live transcription, AI summaries and follow-up actions with 
 
 Stopping a recording and finishing its background processing are different events. I separated those lifecycles and added a short drain for final transcript segments, so shutdown does not immediately discard late events.
 
-**Built with:** React Native, TypeScript, Supabase, WebSockets and transcription/LLM APIs.
+**Built with:** Expo, React Native, Expo Router, TypeScript, Supabase, WebSockets and transcription/LLM APIs.
 
 ## Website preview
 

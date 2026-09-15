@@ -26,7 +26,7 @@ A payment callback can arrive more than once. A transfer can also succeed before
 
 The voice and settlement examples were tested in staging in July 2026. The video above demonstrates task drafting, a posted example, quote comparison, provider review, scheduling and the Stripe test payment form.
 
-**Built with:** React Native, TypeScript, Supabase, PostgreSQL, Stripe and LiveKit.
+**Built with:** Expo, React Native, Expo Router, TypeScript, Supabase, PostgreSQL, Stripe and LiveKit.
 
 ## Website preview
 

@@ -8,7 +8,7 @@ Product engineer in Saskatchewan, Canada. I've been building software products s
 
 A local-services marketplace covering job posting, quotes, hiring, Stripe payments and completion. I built the product workflow and payment integrations, including duplicate-event handling and transfer reconciliation.
 
-**React Native · TypeScript · Supabase · PostgreSQL · Stripe**
+**Expo (React Native) · TypeScript · Supabase · PostgreSQL · Stripe**
 
 [Website](https://www.gethandy.app/)
 
@@ -42,7 +42,7 @@ A desktop video editor for gaming recordings. I built the editing and export wor
 
 AI meeting notes and client records. I integrated live transcription, structured summaries and follow-up actions, with recovery for interrupted transcripts.
 
-**React Native · TypeScript · Supabase · WebSockets**
+**Expo (React Native) · TypeScript · Supabase · WebSockets**
 
 [Open MyMeetings · sign-in required](https://app.mymeetings.ai/) · [Project details](mymeetings.md)
 
