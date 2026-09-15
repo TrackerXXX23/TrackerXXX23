@@ -31,7 +31,7 @@ The voice and settlement examples were tested in staging in July 2026. The video
 ## Website preview
 
 <a href="https://www.gethandy.app/">
-  <img src="assets/gethandy-website.png" width="720" alt="GetHandy website — Your to-do list, handled.">
+  <img src="assets/gethandy-website.jpg" width="720" alt="GetHandy website — Your to-do list, handled.">
 </a>
 
 <sub>Explore the GetHandy website</sub>

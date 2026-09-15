@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/66dbddaf-0c7f-4914-8259-5dca5cbddb9b
 *Recorded in the app with fictional demo data and Stripe test mode.*
 
 <a href="https://www.gethandy.app/">
-  <img src="assets/gethandy-website.png" width="720" alt="GetHandy website — Your to-do list, handled.">
+  <img src="assets/gethandy-website.jpg" width="720" alt="GetHandy website — Your to-do list, handled.">
 </a>
 
 <sub>Explore the GetHandy website</sub>
@@ -33,7 +33,7 @@ A desktop video editor for gaming recordings. I built the editing and export wor
 [Website and downloads](https://clippipeline.vercel.app/) · [Project details](clippipeline.md)
 
 <a href="https://clippipeline.vercel.app/">
-  <img src="assets/clippipeline-website.png" width="720" alt="ClipPipeline website — desktop video editing and downloads">
+  <img src="assets/clippipeline-website.jpg" width="720" alt="ClipPipeline website — desktop video editing and downloads">
 </a>
 
 <sub>Explore ClipPipeline · website and downloads</sub>
@@ -47,7 +47,7 @@ AI meeting notes and client records. I integrated live transcription, structured
 [Open MyMeetings · sign-in required](https://app.mymeetings.ai/) · [Project details](mymeetings.md)
 
 <a href="https://app.mymeetings.ai/">
-  <img src="assets/mymeetings-website.png" width="720" alt="MyMeetings public sign-in page">
+  <img src="assets/mymeetings-website.jpg" width="720" alt="MyMeetings public sign-in page">
 </a>
 
 <sub>Open MyMeetings · sign-in required</sub>

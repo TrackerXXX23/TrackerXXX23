@@ -25,7 +25,7 @@ Hardware and codec support vary between machines. An encoder appearing in a capa
 ## Website preview
 
 <a href="https://clippipeline.vercel.app/">
-  <img src="assets/clippipeline-website.png" width="720" alt="ClipPipeline website — desktop video editing and downloads">
+  <img src="assets/clippipeline-website.jpg" width="720" alt="ClipPipeline website — desktop video editing and downloads">
 </a>
 
 <sub>Explore ClipPipeline · website and downloads</sub>

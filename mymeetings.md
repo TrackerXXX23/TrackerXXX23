@@ -21,7 +21,7 @@ Stopping a recording and finishing its background processing are different event
 ## Website preview
 
 <a href="https://app.mymeetings.ai/">
-  <img src="assets/mymeetings-website.png" width="720" alt="MyMeetings public sign-in page">
+  <img src="assets/mymeetings-website.jpg" width="720" alt="MyMeetings public sign-in page">
 </a>
 
 <sub>Open MyMeetings · sign-in required</sub>
