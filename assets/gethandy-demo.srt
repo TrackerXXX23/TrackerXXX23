@@ -1,23 +1,23 @@
 1
-00:00:00,250 --> 00:00:05,645
-Get Handy makes it simple to find help. Describe the job, materials, and timing.
+00:00:00,150 --> 00:00:05,583
+Got a project in mind? Let's get it done. With GetHandy, start with what you need and when.
 
 2
-00:00:08,250 --> 00:00:14,344
-Here's a posted example, with the task details and a picture so providers know what's needed.
+00:00:08,150 --> 00:00:13,073
+Here's a TV mounting job, with the details and a picture so providers know what's involved.
 
 3
-00:00:16,250 --> 00:00:23,702
-Compare offers side by side. See each provider's price and scope, and decide which option fits the job.
+00:00:16,150 --> 00:00:22,466
+As quotes come in, compare prices and see what each person is offering. It's easy to take a closer look.
 
 4
-00:00:26,250 --> 00:00:35,569
-Open a provider's profile to explore their services and read feedback. This walkthrough uses fictional profiles and sample reviews.
+00:00:26,150 --> 00:00:33,859
+Check out their profile, explore their services, and read the reviews. Get a feel for the person before deciding who to hire.
 
 5
-00:00:36,250 --> 00:00:40,058
-Review what's included, the proposed dates, and the full price.
+00:00:36,150 --> 00:00:40,608
+Check what's included, the proposed dates, and the full price before booking.
 
 6
-00:00:41,750 --> 00:00:51,498
-Then choose a time, confirm access details, and review checkout. Stripe handles the payment form. This is test mode, with no payment taken.
+00:00:41,650 --> 00:00:50,659
+Then pick a time, add any access instructions, and head to checkout. From finding help to getting ready to book, it all comes together in GetHandy.
