@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @TrackerXXX23
-- 👀 I’m interested in ... Fat ass Latinas
-- 🌱 I’m currently learning ...  meta-learning - the system learns how to learn
-- 💞️ I’m looking to collaborate on ... Ai integrated builds > making $$ > Ambition baby 
-- 📫 How to reach me ... WWI pigeon 
+# Chet Paslawski
 
+Product engineer in Saskatchewan, Canada. I've been building software products since 2022, across mobile, web and desktop.
 
-<!---
-TrackerXXX23/TrackerXXX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I build
+
+### <img src="assets/gethandy.png" width="24" height="24" alt=""> GetHandy
+
+A local-services marketplace covering job posting, quotes, hiring, Stripe payments and completion. I built the product workflow and payment integrations, including duplicate-event handling and transfer reconciliation.
+
+**React Native · TypeScript · Supabase · PostgreSQL · Stripe**
+
+### <img src="assets/mymeetings.png" width="24" height="24" alt=""> MyMeetings
+
+AI meeting notes and client records. I integrated live transcription, structured summaries and follow-up actions, with recovery for interrupted transcripts.
+
+**React Native · TypeScript · Supabase · WebSockets**
+
+### <img src="assets/clippipeline.png" width="24" height="24" alt=""> ClipPipeline
+
+A desktop video editor for gaming recordings. I built the editing and export workflow, with FFmpeg job progress, cancellation and a fallback when a hardware encoder fails.
+
+**Electron · React · TypeScript · FFmpeg**
+
+## How I work
+
+I use Claude Code and Codex through implementation, review and testing. I build reusable skills, commands and handoff workflows, configure MCP connections, and turn recurring review findings into checks.
+
+I set the scope, make the engineering decisions and verify the result.
+
+[LinkedIn](https://www.linkedin.com/in/chetpaslawski) · [Email](mailto:chet@gethandy.app)
