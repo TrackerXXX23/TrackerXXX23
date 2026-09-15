@@ -18,6 +18,12 @@ https://github.com/user-attachments/assets/66dbddaf-0c7f-4914-8259-5dca5cbddb9b
 
 *Recorded in the app with fictional demo data and Stripe test mode.*
 
+<a href="https://www.gethandy.app/">
+  <img src="assets/gethandy-website.png" width="720" alt="GetHandy website — Your to-do list, handled.">
+</a>
+
+<sub>Explore the GetHandy website</sub>
+
 ### <img src="assets/clippipeline.png" width="24" height="24" alt=""> ClipPipeline
 
 A desktop video editor for gaming recordings. I built the editing and export workflow, with FFmpeg job progress, cancellation and a fallback when a hardware encoder fails.
@@ -26,6 +32,12 @@ A desktop video editor for gaming recordings. I built the editing and export wor
 
 [Website and downloads](https://clippipeline.vercel.app/) · [Project details](clippipeline.md)
 
+<a href="https://clippipeline.vercel.app/">
+  <img src="assets/clippipeline-website.png" width="720" alt="ClipPipeline website — desktop video editing and downloads">
+</a>
+
+<sub>Explore ClipPipeline · website and downloads</sub>
+
 ### <img src="assets/mymeetings.png" width="24" height="24" alt=""> MyMeetings
 
 AI meeting notes and client records. I integrated live transcription, structured summaries and follow-up actions, with recovery for interrupted transcripts.
@@ -33,6 +45,12 @@ AI meeting notes and client records. I integrated live transcription, structured
 **React Native · TypeScript · Supabase · WebSockets**
 
 [Open MyMeetings · sign-in required](https://app.mymeetings.ai/) · [Project details](mymeetings.md)
+
+<a href="https://app.mymeetings.ai/">
+  <img src="assets/mymeetings-website.png" width="720" alt="MyMeetings public sign-in page">
+</a>
+
+<sub>Open MyMeetings · sign-in required</sub>
 
 ## How I work
 

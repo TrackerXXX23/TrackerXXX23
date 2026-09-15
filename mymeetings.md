@@ -18,4 +18,12 @@ Stopping a recording and finishing its background processing are different event
 
 **Built with:** React Native, TypeScript, Supabase, WebSockets and transcription/LLM APIs.
 
+## Website preview
+
+<a href="https://app.mymeetings.ai/">
+  <img src="assets/mymeetings-website.png" width="720" alt="MyMeetings public sign-in page">
+</a>
+
+<sub>Open MyMeetings · sign-in required</sub>
+
 [Back to projects](README.md)
