@@ -1,5 +1,7 @@
 # GetHandy
 
+[Website](https://www.gethandy.app/)
+
 ## From finding help to finishing the job
 
 GetHandy connects people who need a job done with people who can do it. I built the mobile and web workflow from posting a task and comparing quotes through hiring, Stripe payments and completion.
@@ -8,7 +10,9 @@ GetHandy connects people who need a job done with people who can do it. I built 
 
 *Real app walkthrough using fictional demo data: task drafting, a separate posted example and image, quotes, a provider profile and sample review, scheduling, and Stripe test checkout. No real payment is made.*
 
-[Download the product walkthrough — 54 seconds, MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
+[Download the narrated walkthrough — 54 seconds, MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
+
+[Narration captions](assets/gethandy-demo.srt)
 
 ## My work
 

@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:05,645
+Get Handy makes it simple to find help. Describe the job, materials, and timing.
+
+2
+00:00:08,250 --> 00:00:14,344
+Here's a posted example, with the task details and a picture so providers know what's needed.
+
+3
+00:00:16,250 --> 00:00:23,702
+Compare offers side by side. See each provider's price and scope, and decide which option fits the job.
+
+4
+00:00:26,250 --> 00:00:35,569
+Open a provider's profile to explore their services and read feedback. This walkthrough uses fictional profiles and sample reviews.
+
+5
+00:00:36,250 --> 00:00:40,058
+Review what's included, the proposed dates, and the full price.
+
+6
+00:00:41,750 --> 00:00:51,498
+Then choose a time, confirm access details, and review checkout. Stripe handles the payment form. This is test mode, with no payment taken.

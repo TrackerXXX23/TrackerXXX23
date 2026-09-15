@@ -10,9 +10,11 @@ A local-services marketplace covering job posting, quotes, hiring, Stripe paymen
 
 **React Native · TypeScript · Supabase · PostgreSQL · Stripe**
 
+[Website](https://www.gethandy.app/)
+
 [![Download the GetHandy product demo](assets/gethandy-demo-poster.png)](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
 
-**[Download the 54-second demo · MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)** · [Product and engineering details](gethandy.md)
+**[Download the narrated demo · 54 seconds, MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)** · [Product and engineering details](gethandy.md)
 
 *Recorded in the app with fictional demo data and Stripe test mode.*
 
@@ -22,11 +24,15 @@ A desktop video editor for gaming recordings. I built the editing and export wor
 
 **Electron · React · TypeScript · FFmpeg**
 
+[Website and downloads](https://clippipeline.vercel.app/) · [Project details](clippipeline.md)
+
 ### <img src="assets/mymeetings.png" width="24" height="24" alt=""> MyMeetings
 
 AI meeting notes and client records. I integrated live transcription, structured summaries and follow-up actions, with recovery for interrupted transcripts.
 
 **React Native · TypeScript · Supabase · WebSockets**
+
+[Open MyMeetings · sign-in required](https://app.mymeetings.ai/) · [Project details](mymeetings.md)
 
 ## How I work
 
