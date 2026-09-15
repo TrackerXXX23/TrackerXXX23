@@ -10,9 +10,9 @@ A local-services marketplace covering job posting, quotes, hiring, Stripe paymen
 
 **React Native · TypeScript · Supabase · PostgreSQL · Stripe**
 
-[![Watch the GetHandy product demo](assets/gethandy-demo-poster.png)](https://github.com/TrackerXXX23/TrackerXXX23/blob/main/assets/gethandy-demo.mp4)
+[![Download the GetHandy product demo](assets/gethandy-demo-poster.png)](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
 
-**[Watch the 54-second walkthrough](https://github.com/TrackerXXX23/TrackerXXX23/blob/main/assets/gethandy-demo.mp4)** · [Product and engineering details](gethandy.md)
+**[Download the 54-second demo · MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)** · [Product and engineering details](gethandy.md)
 
 *Recorded in the app with fictional demo data and Stripe test mode.*
 

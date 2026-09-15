@@ -8,7 +8,7 @@ GetHandy connects people who need a job done with people who can do it. I built 
 
 *Real app walkthrough using fictional demo data: task drafting, a separate posted example and image, quotes, a provider profile and sample review, scheduling, and Stripe test checkout. No real payment is made.*
 
-[Watch the product walkthrough — 54 seconds](assets/gethandy-demo.mp4)
+[Download the product walkthrough — 54 seconds, MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
 
 ## My work
 
