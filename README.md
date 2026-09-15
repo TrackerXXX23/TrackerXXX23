@@ -12,9 +12,9 @@ A local-services marketplace covering job posting, quotes, hiring, Stripe paymen
 
 [Website](https://www.gethandy.app/)
 
-[![Download the GetHandy product demo](assets/gethandy-demo-poster.png)](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)
+https://github.com/user-attachments/assets/66dbddaf-0c7f-4914-8259-5dca5cbddb9b
 
-**[Download the narrated demo · 54 seconds, MP4](https://github.com/TrackerXXX23/TrackerXXX23/raw/refs/heads/main/assets/gethandy-demo.mp4)** · [Product and engineering details](gethandy.md)
+**Watch the narrated demo · 54 seconds** · [Product and engineering details](gethandy.md)
 
 *Recorded in the app with fictional demo data and Stripe test mode.*
 
