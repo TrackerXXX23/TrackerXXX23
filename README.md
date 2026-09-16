@@ -1,10 +1,26 @@
 # Chet Paslawski
 
-Product engineer building cross-platform apps, payment workflows and real-time AI tools. Based in Saskatchewan, Canada; building software products since 2022.
+Product engineer building interactive 3D tools, cross-platform apps and real-time AI workflows. Based in Saskatchewan, Canada; building software products since 2022.
 
 I take products from the customer workflow through implementation and testing, including the recovery paths when a payment, recording or export is interrupted.
 
 ## What I build
+
+### CellForge
+
+A robotic workcell simulation workbench. I built the React and Three.js interface, motion-planning workflow and validation gates that connect cell configuration to a verified local job export. Compare layouts, inspect collision failures and require measured simulation evidence before release.
+
+**React · TypeScript · Three.js · React Three Fiber**
+
+[Explore the source and run locally](https://github.com/TrackerXXX23/cellforge) · [Verification evidence](https://github.com/TrackerXXX23/cellforge/blob/main/docs/self-cell-collision-verification.md)
+
+<a href="https://github.com/TrackerXXX23/cellforge">
+  <img src="https://raw.githubusercontent.com/TrackerXXX23/cellforge/main/docs/self-cell-verified.png" width="720" alt="CellForge robotic workcell simulation with a UR20 arm, CNC machine and verified revision export">
+</a>
+
+*Simulation prototype; no physical robot or PLC connection. Original code is MIT licensed; robot assets retain separate terms.*
+
+<sub>© 2023 Universal Robots A/S. Use hereof is subject to Universal Robots A/S’ <a href="https://github.com/TrackerXXX23/cellforge/blob/main/public/robots/ur20/ur_description/meshes/ur20/LICENSE.txt">Terms and Conditions for Use of Graphical Documentation</a>.</sub>
 
 ### <img src="assets/gethandy.png" width="24" height="24" alt=""> GetHandy
 
