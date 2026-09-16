@@ -8,14 +8,14 @@ I take products from the customer workflow through implementation and testing, i
 
 ### CellForge
 
-A robotic workcell simulation workbench. I built the React and Three.js interface, motion-planning workflow and validation gates that connect cell configuration to a verified local job export. Compare layouts, inspect collision failures and require measured simulation evidence before release.
+A play-first robotic workcell simulation. Choose a normal, moved-fixture or blocked scenario, then watch a UR20 pick stock, load the CNC, machine the part and unload it. Under the demo, full-path rehearsal, measured-motion gates and bounded layout recovery keep the engineering evidence honest.
 
 **React · TypeScript · Three.js · React Three Fiber**
 
-[Explore the source and run locally](https://github.com/TrackerXXX23/cellforge) · [Verification evidence](https://github.com/TrackerXXX23/cellforge/blob/main/docs/self-cell-collision-verification.md)
+[Launch the live demo](https://cellforge-orcin.vercel.app) · [Open-source repository · MIT](https://github.com/TrackerXXX23/cellforge) · [Verification evidence](https://github.com/TrackerXXX23/cellforge/blob/main/docs/self-cell-collision-verification.md)
 
-<a href="https://github.com/TrackerXXX23/cellforge">
-  <img src="https://raw.githubusercontent.com/TrackerXXX23/cellforge/main/docs/self-cell-verified.png" width="720" alt="CellForge robotic workcell simulation with a UR20 arm, CNC machine and verified revision export">
+<a href="https://cellforge-orcin.vercel.app">
+  <img src="https://raw.githubusercontent.com/TrackerXXX23/cellforge/main/docs/self-cell-verified.png" width="720" alt="Launch the CellForge UR20 and CNC robotic workcell simulation">
 </a>
 
 *Simulation prototype; no physical robot or PLC connection. Original code is MIT licensed; robot assets retain separate terms.*
